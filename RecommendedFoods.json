@@ -1,0 +1,67 @@
+{
+  "total_size": 5,
+  "type_id": 3,
+  "offset": 0,
+  "products": [
+    {
+      "id": 3,
+      "name": "Adobo",
+      "description": "Adobo can be considered as the most popular dish out of all the Philippines food, and it is definitely loved by everyone — westerners’ palate included. In fact, it can even be considered as the ‘national dish’ of the country! The most common type of adobo uses chicken or pork meat and it is first marinated in garlic, black peppercorns, bay leaves, soy sauce, and vinegar. After some time, it will be browned in oil and then simmered to goodness in its marinade. Pair it off with some good ol’ rice and you’re bound to have it as your new favorite viand!",
+      "price": 50,
+      "stars": 3,
+      "img": "https://lh3.googleusercontent.com/pw/AM-JKLWMIcKhiM1B_U0aL4oh3I9G1F7HY5-lPzcRxyQkiuxYj1vHA1eNTNMkbNOeR_PVNpkXr91YalB_Yz3RI-kxdetc_bpWQogf4uPbh_hPRlp70JVsbNsJ3cwahW2-y3Wew5UkLmoRLCPN5i0y6Dy753bu=w1440-h692-no",
+      "location": "Moraine Lake, Alberta",
+      "created_at": "2021-11-17 10:16:31",
+      "updated_at": "2022-01-01 08:54:54",
+      "type_id": 3
+    },
+    {
+      "id": 4,
+      "name": "Beef Sisig",
+      "description": "This Pinoy dish might have many versions all around the Philippines, but the dish stands out with its thrice cooked minced beef and oxtail mixed with a variety of spices including green chili fingers, bird’s eye chilis, with mayonnaise on the side.",
+      "price": 60,
+      "stars": 4,
+      "img": "https://lh3.googleusercontent.com/pw/AM-JKLVU4u0wrirn-P5q291CkddBemhdWzS1JAh4YFKhYJpJOSPwO1GEEzEc083SGYPG1q5UPWHJk5esruMBy0yi7jL4N5MXKgfd5Wu3gvoWd3umiFt0eCFCNIzxMNjZYfcpiNQCL_gdFfpy2tq9c5a6FAKp=w529-h411-no",
+      "location": "Killarney Provincial Park",
+      "created_at": "2021-11-17 10:18:46",
+      "updated_at": "2022-01-01 08:55:05",
+      "type_id": 3
+    },
+    {
+      "id": 5,
+      "name": "Ginataang Laing",
+      "description": "The Filipino Food Festival wouldn’t be complete without a nice seafood offering – this time it’s the mix of shrimps, crabs, scallops, mussels, clams and more offerings of the sea, drenched in coconut milk and spices. This, as per Filipino dining table tradition, will be paired with Laing – a Filipino vegetable viand made from taro leaves cooked in coconut milk and spices that pairs extremely well with seafood.",
+      "price": 70,
+      "stars": 5,
+      "img": "https://lh3.googleusercontent.com/pw/AM-JKLVHgORW0OP0xD6y9frpwRvLzf54_2xlSeKUSGuf_GM9jhk6vO9AhVkl7OG8DLPY59ab_RVIdOdecRsjyxFV1-cXRzZ9buKKYG9LB9-9i0xGc7el5t1jyqnOPStox56o52ezjbjIMDOGerPsRYEk9IDv=w473-h385-no",
+      "location": "China",
+      "created_at": "2021-12-08 12:29:53",
+      "updated_at": "2022-01-01 08:55:44",
+      "type_id": 3
+    },
+    {
+      "id": 8,
+      "name": "Kaldereta",
+      "description": "Another Lamb dish on the buffet is the Lamb Kaldereta, giving the traditional Kalderate dish a twist with its choice of meat – the lamb breast and/or shoulder that will be stewed in a luscious tomato sauce and aromatics.",
+      "price": 60,
+      "stars": 4,
+      "img": "https://lh3.googleusercontent.com/pw/AM-JKLUR1Q4pXfwtqnc8FsJjPIEflWQxMO5C-WN-pUlOWx6hgV6Yp-xTmXKIN4SNGYSnENUFPt2oaTGA3fwxdKEiqST3CrdCYJMW5GaD4JHTa_QDm-lFM18QgunvnLBtcBW-RRQ-W7s3gflSYLECjdCSXO5l=w559-h640-no",
+      "location": "china",
+      "created_at": "2021-12-26 01:36:29",
+      "updated_at": "2022-01-01 08:57:01",
+      "type_id": 3
+    },
+    {
+      "id": 9,
+      "name": "Pancit Gisado",
+      "description": "One of the more popular Filipino dishes among foreigners with Pinoy friends (due to its customary presence in Filipino birthday parties) is pancit (noodles), of which pancit guisado is perhaps the most well-known variant. This noodle dish is served as a symbol for long life, hence an essential at birthday feasts. The sautéed noodles are complemented by sliced vegetables and meat (all cooked in broth, soy sauce, and fish sauce) and kalamansi is squeezed over upon serving.",
+      "price": 50,
+      "stars": 4,
+      "img": "https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2017/07/3852511838_3603458eb1_b.jpg",
+      "location": "BD",
+      "created_at": "2021-12-27 06:27:38",
+      "updated_at": "2022-01-01 08:57:16",
+      "type_id": 3
+    }
+  ]
+}
