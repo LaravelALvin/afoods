@@ -18,7 +18,7 @@
     {
       "id": 2,
       "name": "Pork Lauya by Tata's Fastfood",
-      "description": "Lauya is an Ilokano dish it usually consist of pork knuckles and vegetables but some variations uses beef knuckles. Lauya is basically a counterpart of the tagalog nilaga dish and obviously the word “lauya” in Ilokano is “nilaga” in tagalog or in English which is “boiled” or "Linat-an" in Bisaya.",
+      "description": "Lauya is an Ilokano dish it usually consist of pork knuckles and vegetables but some variations uses beef knuckles. Lauya is basically a counterpart of the tagalog nilaga dish and obviously the word “lauya” in Ilokano is “nilaga” in tagalog or “boiled” in English and “linat-an” is bisaya.",
       "price": 40,
       "stars": 5,
       "img": "https://github.com/LaravelALvin/afoods/blob/main/afoods%20img/filipino-style-pork-and-vegestable-stew-lauya-recipe-main-photo.jpeg?raw=true",
