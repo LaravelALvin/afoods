@@ -52,18 +52,6 @@
       "type_id": 2
     },
     {
-      "id": 5,
-      "name": "Chicken Halang-halang by RC's Kitchenette",
-      "description": "Chicken halang-halang is another version of chicken adobo but it contains siling labuyo which gives hot and spicy flavor on the chicken.",
-      "price": 45,
-      "stars": 5,
-      "img": "https://lh3.googleusercontent.com/pw/AM-JKLVvqVJxw-5IWOC2kRt4FhSFlR7kkMgaM-qHhua-9BEK-Gi7Xo8IV1jQhVEL-4no4i6WFEfIS9rxAEZtZpUjvBhCP6-cy3iu21DxrvXiAsAKYsl9v1E_qr9qKbKDrQjHpdRcHNcENgsLfNE5bPI0_w9r=w1024-h683-no",
-      "location": "Cuba",
-      "created_at": "2021-12-23 15:04:49",
-      "updated_at": "2022-01-01 08:56:45",
-      "type_id": 2
-    },
-    {
       "id": 6,
       "name": "Ginataang Langka by RC's Kitchenette",
       "description": "Ginataang Langka isa must try dish that is truly Filipino. The amazing thing about Langka and coconut milk in cooking is that you get all the health benefits they both have.",
